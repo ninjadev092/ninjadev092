@@ -4,7 +4,7 @@
 - 💞️ I’m looking to collaborate on company or client who want to build the web project.
 - 📫 jintomas129@gmail.com
 - 😄 Pronouns: I am MONSTER!!!
-- ⚡ Fun fact: I would like to play Dota2 and Football.
+- ⚡ Fun fact: I like to play Dota and Football.
 - My Certificates
 
   javascript:https://www.hackerrank.com/certificates/056ca93bed8b
