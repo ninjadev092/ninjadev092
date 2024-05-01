@@ -15,9 +15,9 @@
   
   Problem Solving (Intermediate) Certificate: https://www.hackerrank.com/certificates/4e576b0f9b41
   
-  Frontend Developer (React) Certificate: https://www.hackerrank.com/certificates/983d9357c734
+  Frontend Developer (React) Role: https://www.hackerrank.com/certificates/983d9357c734
   
-  Software Engineer Certificate: https://www.hackerrank.com/certificates/ed3f10785514
+  Software Engineer Role: https://www.hackerrank.com/certificates/ed3f10785514
 
 <!---
 TomasJin/TomasJin is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
