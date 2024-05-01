@@ -7,7 +7,7 @@
 - ⚡ Fun fact: I like to play Dota and Football.
 - My Certificates
 
-  javascript:https://www.hackerrank.com/certificates/056ca93bed8b
+  JavaScript (Intermediate) Certificate: https://www.hackerrank.com/certificates/056ca93bed8b
   
   Rest API (Intermediate) Certificate: https://www.hackerrank.com/certificates/7c3a55c9f31c
   
