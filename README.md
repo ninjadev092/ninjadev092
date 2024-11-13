@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @TomasJin
+- 👋 Hi, Everybody!
 - 👀 I'm interested in web development and web architecture.
 - 🌱 I’m currently learning AI and BlockChain technique.
 - 💞️ I’m looking to collaborate on company or client who want to build the web project.
