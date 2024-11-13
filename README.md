@@ -2,7 +2,6 @@
 - 👀 I'm interested in web development and web architecture.
 - 🌱 I’m currently learning AI and BlockChain technique.
 - 💞️ I’m looking to collaborate on company or client who want to build the web project.
-- 📫 jintomas129@gmail.com
 - 😄 Pronouns: I am MONSTER!!!
 - ⚡ Fun fact: I like to play Dota and Football.
 - My Certificates
