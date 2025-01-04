@@ -26,7 +26,9 @@ MongoDB, MySQL, PostgreSQL, Firebase
 ## My Highlight Projects
 ### Web Projects
 https://bidmii.com/
+
 https://brandpointsplus.ca/
+
 https://www.bossfotos.com/
 
 # My Certificates
