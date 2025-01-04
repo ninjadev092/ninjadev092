@@ -7,6 +7,7 @@ My way of working is that every process in a program should be well documented f
 "Don't Repeat Yourself" (DRY) is a software development principle that aims to reduce the repetition of information that is likely to change.
 
 ❤ My Highlight Skills
+
 ✔ Languages
 JavaScript, TypeScript, Node.js, Python, C++, GraphQL
 
@@ -20,7 +21,9 @@ Node.js, Python, Django, GraphQL(Apollo), Laravel
 MongoDB, MySQL, PostgreSQL, Firebase
 
 ✔ AWS Cognito, S3 Bucket, Lamda, SSM, ECS, EC2
+
 ✔ Jira Pipelines, Bitbucket, GitHub
+
 ✔ CI/CD, DevOps
 
 ## My Highlight Projects
