@@ -4,7 +4,6 @@ My philosophy is to secure everything with skills, and I am still struggling wit
 My passion for programs will always bring you only satisfaction.
 My way of working is that every process in a program should be well documented from the start so that the results are clear and accurate.
 
-# ***
 "Don't Repeat Yourself" (DRY) is a software development principle that aims to reduce the repetition of information that is likely to change.
 
 ❤ My Highlight Skills
