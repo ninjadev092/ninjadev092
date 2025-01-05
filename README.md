@@ -38,8 +38,8 @@ https://www.bossfotos.com/
 
 ## Github Status
 <div>
-<img src="https://github-readme-stats-sigma-five.vercel.app/api?username=lavendar-k&count_private=true" width="50.25%"/>
-<img src="https://github-readme-stats-sigma-five.vercel.app/api/top-langs/?username=lavendar-k&layout=compact" width="42%"/>
+<img src="https://github-readme-stats-sigma-five.vercel.app/api?username=ninjadev092&count_private=true" width="55.25%"/>
+<img src="https://github-readme-stats-sigma-five.vercel.app/api/top-langs/?username=lninjadev092&layout=compact" width="52%"/>
 </div>
 
 # My Certificates
